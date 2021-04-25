@@ -1,0 +1,1 @@
+print('Hello Rexburg! Have a great semester my fellow students!')
